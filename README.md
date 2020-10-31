@@ -1,9 +1,18 @@
-# Fabric Example Mod
+# SomeRandomStuff
 
-## Setup
+## Mod
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+As the title says, Some Random Stuff.
+Cool items, new blocks, new ores and more!
+
+### Installation
+
+Go to the [Fabric Website](fabricmc.net/use) and download the FabricMC installer.
+Run the FabricMC installer.
+Install FabricMC.
+Put the [mod](https://github.com/ItzzBluee/somerandomstuff/releases) in your ".minecraft/mods" folder.
+Launch Minecraft from the launcher with the FabricMC profile.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the CC0 license.
